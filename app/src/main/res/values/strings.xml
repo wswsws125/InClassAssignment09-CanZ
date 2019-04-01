@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClassAssignment09</string>
+    <string name="australia">Australia</string>
+    <string name="asia">Asia</string>
+
+    <string name="question_australia">The highest waterfall in Australia is in Queensland state.</string>
+    <string name="question_asia"> Asia is the largest continent.</string>
+</resources>
